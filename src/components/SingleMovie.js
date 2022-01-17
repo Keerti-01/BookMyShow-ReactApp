@@ -16,7 +16,7 @@ function SingleMovie(){
     
     useEffect(async () => {
         try {
-            const response = await axios.get(`http://localhost:8000/movie/${movid}`); //concatenate
+            const response = await axios.get(`https://book-my-show10.herokuapp.com/movie/${movid}`); //concatenate
             console.log(response);
             setSingleData([response.data]);
             

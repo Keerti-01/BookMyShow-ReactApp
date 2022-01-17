@@ -23,7 +23,7 @@ function Registration(){
                 "password": password
             }
             //console.log(userDetails);
-            const response = await axios.post('http://localhost:8000/user-register', userDetails)
+            const response = await axios.post('https://book-my-show10.herokuapp.com/user-register', userDetails)
             .then((data)=>{
                 Swal.fire({
                         title: `<strong>${data.data.message}</strong>`,

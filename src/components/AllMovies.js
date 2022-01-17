@@ -12,7 +12,7 @@ function AllMovies(){
 
     useEffect(async () => {
         try {
-            const response = await axios.get('http://localhost:8000/movies');
+            const response = await axios.get('https://book-my-show10.herokuapp.com/movies');
             console.log(response);
             setData(response.data);
             

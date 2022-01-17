@@ -1,0 +1,33 @@
+[
+{
+    "id":1,
+    "img":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+    "title": "Bell Bottom",
+    "actor": "Akshay Kumar"
+},
+{
+    "id":2,
+    "img":"https://upload.wikimedia.org/wikipedia/en/9/91/Shershaah_film_poster.jpg",
+    "title": "Shershah",
+    "actor": "Siddharth Malhotra"
+},
+{
+    "id":3,
+    "img":"https://assetscdn1.paytm.com/images/cinema/6-gallery-ef137e80-4228-11ec-96cd-1bf51c099a46.jpg",
+    "title": "Pushpa",
+    "actor": "Allu Arjun"
+},
+{
+    "id":4,
+    "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/KGF-647x363.jpeg?0n7lFSoZP63T_VGoHMpIkMtOu9s6Jq_Z",
+    "title": "KGF",
+    "actor": "Yash"
+},
+{
+    "id":5,
+    "img":"https://static.toiimg.com/photo/msid-76889998/76889998.jpg?503418",
+    "title": "Bahubali",
+    "actor": "Prabhas"
+}
+
+]
